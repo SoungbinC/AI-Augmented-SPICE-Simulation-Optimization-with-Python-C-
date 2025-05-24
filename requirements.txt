@@ -1,0 +1,7 @@
+pybind11
+streamlit
+numpy
+matplotlib
+stable-baselines3
+# ale-py
+gymnasium
